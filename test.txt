@@ -1,1 +1,2 @@
 This is gitKraken testing
+Editing in text branch
